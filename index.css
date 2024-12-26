@@ -68,9 +68,9 @@ body {
 
 .card {
   min-width: 327px;
-  min-height: 501px;
+  /* min-height: 501px; */
   max-width: 384px;
-  max-height: 522px;
+  /* max-height: 522px; */
 
   flex: 1 1 auto;
 
