@@ -27,6 +27,7 @@ body {
   font-weight: 800;
   line-height: 150%;
   letter-spacing: 0;
+  color: var(--color-gray-950);
 }
 
 .text-preset-2 {
@@ -35,6 +36,7 @@ body {
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0;
+  color: var(--color-gray-500);
 }
 
 .text-preset-3 {
@@ -43,6 +45,7 @@ body {
   font-weight: 500;
   line-height: 150%;
   letter-spacing: 0;
+  color: var(--color-gray-950);
 }
 
 .text-preset-4 {
@@ -51,6 +54,7 @@ body {
   font-weight: 800;
   line-height: 150%;
   letter-spacing: 0;
+  color: var(--color-gray-950);
 }
 
 body {
